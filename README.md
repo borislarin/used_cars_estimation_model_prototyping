@@ -25,4 +25,5 @@ pip install matplotlib
 pip install seaborn
 pip install sklearn
 pip install joblib
+pip install lightgbm
 ```
